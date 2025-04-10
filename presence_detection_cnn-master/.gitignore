@@ -1,0 +1,7 @@
+__pycache__/*
+.idea/*
+*.dat
+*.pyc
+*.h5
+data/*
+model/*
